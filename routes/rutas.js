@@ -17,6 +17,3 @@ rutas.get('/buscarreservas', controladorReserva.buscandoreservas)
 rutas.get('/buscarreserva', controladorReserva.buscandoreserva)
 rutas.put('/actualizarreserva', controladorReserva.actualizandoreserva)
 rutas.delete('/eliminarreserva', controladorReserva.eliminandoreserva)
-
-
-//mirar url de 2 videos en youtube
